@@ -1,0 +1,11 @@
+ body { background-color:#000000 ; color: #e0e0e0; font-family: Georgia; margin: 0; }
+ nav { background-color: #2f1111; padding: 15px; text-align: center;
+     position: sticky; top: 0; }
+ nav a { color: white; margin: 0 15px; font-weight: bold; }
+ nav a:hover { color: #000000; border-bottom: 2px solid white; }
+ header {background-image: url(bgimg2.jpeg); padding: 100px 20px; text-align: center;
+    background-color:#000000 ; border-bottom: 2px solid white; }
+ h1 { color:white; font-size: 3em; }
+ section { padding: 50px 15%; text-align: center; }
+ marquee { background: #000000; color: white; padding: 10px; }                                                
+       
